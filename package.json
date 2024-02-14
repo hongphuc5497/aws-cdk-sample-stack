@@ -1,8 +1,8 @@
 {
-  "name": "aws-cdk-hello-world",
+  "name": "aws-cdk-sample",
   "version": "0.1.0",
   "bin": {
-    "aws-cdk-hello-world": "bin/aws-cdk-hello-world.js"
+    "aws-cdk-sample": "bin/aws-cdk-sample.js"
   },
   "scripts": {
     "build": "tsc",
